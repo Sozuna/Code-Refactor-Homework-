@@ -1,2 +1,0 @@
-# Code-Refactor-Homework-
-I don't really know what to put in here. But I'll just say that I had a difficult time doing this homework. I could use the most feedback that I can get to fully understand what to change or add to the code to make the website better and more efficient.
